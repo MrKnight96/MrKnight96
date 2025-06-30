@@ -1,4 +1,4 @@
-# 👋 Ciao! I'm **MrKnight96** 
+#  👋 Hello there! I'm **MrKnight96**
 
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2F81F7&center=true&vCenter=true&width=435&lines=Web+Developer+from+Rome;Always+learning+something+new;Mr.+Robot+inspired+my+journey" alt="Typing SVG" />
@@ -8,6 +8,8 @@
 
 ## 🌟 About Me
 
+Here’s a bit about me in code:
+
 ```javascript
 const mrKnight = {
     location: "🛫 Rome, Italy",
@@ -16,6 +18,7 @@ const mrKnight = {
     cannotLiveWithout: ["Coding", "Learning", "Movies"],
     favoriteShow: "Mr. Robot 🤖"
 };
+
 ```
 
 ## 🚀 Tech Stack
@@ -35,9 +38,12 @@ const mrKnight = {
 - 🔭 **Currently working on:** Expanding my web development skills
 - 🌱 **Learning:** Python, PHP, and Dash for data visualization
 - 👯 **Looking to collaborate on:** Website and app creation & design
-- 💬 **Ask me about:** Web development, movies, or anything tech-related!
+- 💬 **Ask me about:** Feel free to ask me about web development, tech, or even movies!
+
 
 ## 🏆 Future Goals
+
+These are my current goals and motivations, written in Python for fun:
 
 ```python
 class FuturePlans:
@@ -49,24 +55,15 @@ class FuturePlans:
     
     def get_motivation(self):
         return "Inspired by Mr. Robot since day one! 🤖"
+
 ```
 
 ## 🎬 Fun Facts
 
 - ⚡ **Origin Story:** My programming journey began after watching "Mr. Robot" (still my favorite series!)
-- 🎥 I love creating videos and telling stories through code
+- 🎥 I love combining video creation with storytelling through code
 - 💪 When I'm not coding, you'll find me at the gym
-- 🍕 Proud Roman who codes between pizza breaks
-
-## 📊 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MrKnight96&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MrKnight96&theme=tokyonight" alt="GitHub Streak" />
-</div>
+- 🍕 Proud Roman who codes — fueled by pizza and passion
 
 ## 🤝 Let's Connect!
 
